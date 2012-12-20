@@ -1,0 +1,7 @@
+
+0.2
+	* Fix names to store radio and checkbox
+	* Delete unused keys from localStorage
+
+0.1
+ 	* Initial release
